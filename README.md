@@ -20,4 +20,4 @@ A simple educational Python notebook (Google Colab) that:
 - ChEMBL (public bioactivity database)
 
 ## License
-Add one if you want (e.g., MIT).
+MIT
